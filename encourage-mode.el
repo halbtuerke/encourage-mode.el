@@ -3,7 +3,7 @@
 ;; Copyright (C) 2015 Patrick Mosby <patrick@schreiblogade.de>
 
 ;; Author: Patrick Mosby <patrick@schreiblogade.de>
-;; URL: https://github.com/halbtuerke/encourage
+;; URL: https://github.com/halbtuerke/encourage.el
 ;; Version: 0.0.1
 ;; Keywords: fun
 ;; Package-Requires: ((emacs "24.4"))
