@@ -1,3 +1,5 @@
+[![MELPA](http://melpa.org/packages/encourage-mode-badge.svg)](http://melpa.org/#/encourage-mode)
+
 # encourage-mode.el
 
 This Emacs minor-mode is inspired by https://github.com/Haacked/Encourage.
